@@ -1,0 +1,21 @@
+{
+  "name": "Enerinno_SPIFFILE",
+  "keywords": "ESP32, SPIFFILE",
+  "description": "Esentials for SPIFFILE",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/MauroDuque/Enerinno_SPIFFILE.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Mauricio Duque",
+      "email": "mauricio.duque.eje@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "version": "0.0.1",
+  "frameworks": "arduino",
+  "platforms": "espressif"
+}
